@@ -1,8 +1,8 @@
 from typing import Mapping
-import pyttsx3 # type: ignore
-import speech_recognition as sr # type: ignore
+import pyttsx3 
+import speech_recognition as sr 
 import datetime
-import wikipedia # type: ignore
+import wikipedia 
 import webbrowser
 import os
 import requests
